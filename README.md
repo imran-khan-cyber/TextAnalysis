@@ -36,4 +36,15 @@ To run this project on your local machine, follow these steps:
 ---
 
 ## Author
+
 * **Imran Khan M** - [GitHub Profile](https://github.com/imran-khan-cyber)
+
+## About the Author
+I am **Imran Khan M** from Trichy, currently staying in Chennai, Tamil Nadu.
+
+I graduated with a B.Sc. in Computer Science from Jamal Mohamed College in 2023. I gained practical skills in C, C++, and Python from "CKA Collectiva Knowledge Academy" and have applied these skills to hands-on projects.
+
+I am a passionate and highly motivated fresher, actively seeking my first opportunity in a developer role.
+
+**Connect with me:**
+- **GitHub:** [https://github.com/imran-khan-cyber](https://github.com/imran-khan-cyber)
